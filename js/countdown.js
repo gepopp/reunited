@@ -75,7 +75,7 @@
 
 
 		    },
-		    countdown.HOURS|countdown.MINUTES|countdown.SECONDS);
+		    countdown.SECONDS);
 
 
 		return this;
